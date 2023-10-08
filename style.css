@@ -10,3 +10,6 @@ body{
 li{
     list-style-type: none;
 }
+li>a:hover{
+    color: red;
+}
